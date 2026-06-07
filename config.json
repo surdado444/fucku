@@ -1,0 +1,5 @@
+{
+  "environment": "production",
+  "database_cluster_nodes": ["10.0.4.1", "10.0.4.2"],
+  "compression_level": 9
+}
